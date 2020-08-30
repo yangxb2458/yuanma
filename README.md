@@ -48,8 +48,7 @@ QQ群号：733902044
 
 支付宝<br/>
 ![](https://mmbiz.qlogo.cn/mmbiz_jpg/6Nme2xEYxU5vpdLchtBYM2UjPdzvjySQZq0sJoVvmbTsjeP6LXLIvEqJz4sOvgPSQszjjJCuMNbg0ZrcSMCyCQ/0?wx_fmt=jpeg) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://mmbiz.qlogo.cn/mmbiz_jpg/6Nme2xEYxU5vpdLchtBYM2UjPdzvjySQZq0sJoVvmbTsjeP6LXLIvEqJz4sOvgPSQszjjJCuMNbg0ZrcSMCyCQ/0?wx_fmt=jpeg) 
 
 微信<br/>
 ![](https://mmbiz.qlogo.cn/mmbiz_jpg/6Nme2xEYxU5vpdLchtBYM2UjPdzvjySQrzEeGUx4naoTpBHaOW6EicC1NUTIIv1ovJWPgziaXoFiawM4XCRia1CDPA/0?wx_fmt=jpeg) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://mmbiz.qlogo.cn/mmbiz_jpg/6Nme2xEYxU5vpdLchtBYM2UjPdzvjySQrzEeGUx4naoTpBHaOW6EicC1NUTIIv1ovJWPgziaXoFiawM4XCRia1CDPA/0?wx_fmt=jpeg) 
+
