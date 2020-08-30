@@ -35,7 +35,7 @@ java后端：SpringBoot + Thymeleaf + WebSocket + Spring Security + SpringData-J
 解决：等待IDE识别成springboot项目后，在BaseAdminApplication.java中运行main函数启动程序
 ```
 
-## 前往博客查看详情<br/> 
+## 前往公众号查看详情<br/> 
 具体介绍请看我的公众号[《开源一套简单通用的后台管理系统》](https://mp.weixin.qq.com/s/Hnc0F77y10NSISwyIkGksQ)<br/> 
 
 ## QQ群<br/>
